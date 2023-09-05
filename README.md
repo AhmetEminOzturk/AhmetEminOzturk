@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmet Emin</h1>
 <h3 align="center">A passionate Jr. FullStack developer from Turkey I'm on an exciting journey to become a Fullstack .NET Developer. Currently, I am based in Istanbul, Turkey, and I'd like to share some insights into my path and progress in the world of software development. I recently completed the "Turkcell Geleceği Yazanlar .NET Bootcamp Program," which was an incredible learning experience. This program provided me with a solid foundation in .NET development and sparked my passion for coding. Currently, I am enrolled in the "Fullstack .NET Developer Bootcamp Program" at Istanbul Egitim Akademi. This comprehensive program is helping me deepen my knowledge and skills in both frontend and backend development using the .NET ecosystem. My ultimate goal is to become a proficient Fullstack Developer. To achieve this, I am committed to continuous learning and self-improvement. I am actively engaged in personal projects, coding challenges, and online courses to expand my expertise.</h3>
 
-- 📝I regularly write junior level articles on on [https://medium.com/@ahmeteminozturk](https://medium.com/@ahmeteminozturk)
+- 📝 I regularly write junior level articles on on [https://medium.com/@ahmeteminozturk](https://medium.com/@ahmeteminozturk)
 
 - 📫 How to reach me **eminahmetozturk@gmail.com**
 
 - 📄 Know about my experiences [https://ahmeteminozturkcv.com.tr/](https://ahmeteminozturkcv.com.tr/)
 
-- 🌱**Thank you for visiting my GitHub profile, and I look forward to sharing my coding journey with you! 🚀👨‍💻**
+- 🌱** Thank you for visiting my GitHub profile, and I look forward to sharing my coding journey with you! 🚀👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
