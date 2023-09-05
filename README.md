@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://ahmeteminozturkcv.com.tr/](https://ahmeteminozturkcv.com.tr/)
 
-- 🌱 **Thank you for visiting my GitHub profile, and I look forward to sharing my coding journey with you! 🚀👨‍💻**
+- 🌱 **Thank you for visiting my GitHub profile, and I look forward to sharing my coding journey with you! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
