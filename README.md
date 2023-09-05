@@ -21,7 +21,7 @@ My ultimate goal is to become a proficient Fullstack Developer. To achieve this,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmet-emin-%c3%b6zt%c3%bcrk-242683269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-emin-%c3%b6zt%c3%bcrk-242683269/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-emin-%c3%b6zt%c3%bcrk-242683269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmeteminozturk/" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmeteminozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ahmeteminozturk" height="30" width="40" /></a>
 </p>
 
