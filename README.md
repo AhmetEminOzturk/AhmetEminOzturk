@@ -15,7 +15,7 @@ My ultimate goal is to become a proficient Fullstack Developer. To achieve this,
 
 - 📫 How to reach me **eminahmetozturk@gmail.com**
 
-- 📄 Know about my experiences [https://ahmeteminozturkcv.com.tr/](https://ahmeteminozturkcv.com.tr/)
+- 📄 Know about my experiences [https://ahmeteminozturkcv.com.tr](https://ahmeteminozturkcv.com.tr)
 
 - 🌱 **Thank you for visiting my GitHub profile, and I look forward to sharing my coding journey with you! 🚀**
 
